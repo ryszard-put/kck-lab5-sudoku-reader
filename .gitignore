@@ -1,0 +1,9 @@
+__pycache__
+original_images
+images/easy/*[.jpg,.png]
+images/medium/*[.jpg,.png]
+images/hard/*[.jpg,.png]
+
+results/easy/*[.jpg,.png]
+results/medium/*[.jpg,.png]
+results/hard/*[.jpg,.png]
